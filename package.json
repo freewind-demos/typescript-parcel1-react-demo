@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "start": "parcel src/index.html --open"
+        "start": "parcel src/index.html --open --no-cache"
     },
     "devDependencies": {
         "@types/react": "18.2.48",
